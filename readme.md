@@ -48,4 +48,4 @@ Não há persistência de dados no container Python, tudo é enviado diretamente
 
 O ambiente já está configurado para trabalhar com Iceberg via Spark usando jupyter notebook.
 
-****Ambiente de desenvolvimento, não replicar em produção*****
+****Ambiente de desenvolvimento, não replicar em produção****
