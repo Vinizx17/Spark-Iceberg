@@ -1,4 +1,4 @@
-# Lakehouse Project
+# Spark-Iceberg
 
 Este projeto demonstra um ambiente de **Lakehouse** usando **MongoDB**, **MinIO**, **Apache Spark**, e **Apache Iceberg**, orquestrado via **Docker Compose**.  
 O objetivo é extrair dados da collection `sales` do MongoDB, transformar em Parquet e salvar no bucket `raw` do MinIO.  
